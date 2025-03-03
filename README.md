@@ -2,16 +2,16 @@
 
 Kotlin/Native and Rust Interop with Gradle support
 
-# Prerequisites
+### Prerequisites
 MSRV is 1.85 (stable), Rust 2024 edition,
  
-IntelliJ Idea, uses kotlin version 2.1.10 and
+IntelliJ Idea (Kotlin version 2.1.10) and
 
 Linux (Ubuntu/Debian based).
 
 (This is what I used. The versions should not be a problem)
 
-# Building Rust(CLI)
+### Building Rust(CLI)
 To get the shared library, run this command inside rust/demo folder:
 
 ```
@@ -24,7 +24,7 @@ target/release folder of the cargo project
 Move the library to /src/nativeDemo/cinterop/libs folder for proper functionality,
 or modify the gradle files.
 
-# Running the executable(CLI)
+### Running the executable(CLI)
 To run the executable, run the following commands
 in the root folder of the project:
 
@@ -40,13 +40,14 @@ Then, do this:
 
 Hopefully, you should see the following:
 
->Task :runReleaseExecutableLinuxX64
+><b>Task :runReleaseExecutableLinuxX64</b>
 >
 >15.0
 >
 >
->BUILD SUCCESSFUL in 4s
+><b>BUILD SUCCESSFUL</b> in 4s
 >
 >4 actionable tasks: 1 executed, 3 up-to-date
+
 
 Hope this project is useful!
