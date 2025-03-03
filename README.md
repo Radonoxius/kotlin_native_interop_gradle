@@ -38,14 +38,16 @@ Then, do this:
 
 Hopefully, you should see the following:
 
-><b>Task :runReleaseExecutableLinuxX64</b>
->
->15.0
->
->
-><b>BUILD SUCCESSFUL</b> in 4s
->
->4 actionable tasks: 1 executed, 3 up-to-date
+```console
+<b>Task :runReleaseExecutableLinuxX64</b>
+
+15.0
+
+
+<b>BUILD SUCCESSFUL</b> in 4s
+
+4 actionable tasks: 1 executed, 3 up-to-date
+```
 
 
 Hope this project is useful!
