@@ -39,12 +39,12 @@ Then, do this:
 Hopefully, you should see the following:
 
 ```console
-<b>Task :runReleaseExecutableLinuxX64</b>
+Task :runReleaseExecutableLinuxX64
 
 15.0
 
 
-<b>BUILD SUCCESSFUL</b> in 4s
+BUILD SUCCESSFUL in 4s
 
 4 actionable tasks: 1 executed, 3 up-to-date
 ```
