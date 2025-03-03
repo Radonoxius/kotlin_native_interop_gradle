@@ -5,7 +5,7 @@ Kotlin/Native and Rust Interop with Gradle support
 # Prerequisites
 MSRV is 1.85 (stable), Rust 2024 edition,
  
-IntelliJ Idea and
+IntelliJ Idea, uses kotlin version 2.1.10 and
 
 Linux (Ubuntu/Debian based).
 
