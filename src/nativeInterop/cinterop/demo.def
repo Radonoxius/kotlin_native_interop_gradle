@@ -1,1 +1,4 @@
 headers = demo.h
+
+//This should contain the relative path to the library (with respect to project root directory)
+linkerOpts.linux = -Lsrc/nativeInterop/cinterop/libs -ldemo

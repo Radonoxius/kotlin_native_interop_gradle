@@ -5,4 +5,5 @@ pluginManagement {
     }
 }
 
+//Root project name
 rootProject.name = "nativeDemo"
