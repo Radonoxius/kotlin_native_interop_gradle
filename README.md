@@ -3,13 +3,11 @@
 Kotlin/Native and Rust Interop with Gradle support
 
 ### Prerequisites
-MSRV is 1.85 (stable), Rust 2024 edition,
+MSRV is 1.85 (stable), Rust 2024 edition and Cargo,
  
 IntelliJ Idea (Kotlin version 2.1.10) and
 
 Linux (Ubuntu/Debian based).
-
-(This is what I used. The versions should not be a problem)
 
 ### Building Rust(CLI)
 To get the shared library, run this command inside rust/demo folder:
