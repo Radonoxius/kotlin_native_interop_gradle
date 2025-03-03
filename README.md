@@ -40,12 +40,10 @@ Then, do this:
 
 Hopefully, you should see the following:
 
+>>>Task :runReleaseExecutableLinuxX64
+>>>15.0
 >>>
-Task :runReleaseExecutableLinuxX64
-15.0
-
-BUILD SUCCESSFUL in 4s
-4 actionable tasks: 1 executed, 3 up-to-date
->>>
+>>>BUILD SUCCESSFUL in 4s
+>>>4 actionable tasks: 1 executed, 3 up-to-date
 
 Hope this project is useful!
