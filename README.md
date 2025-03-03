@@ -11,7 +11,7 @@ Linux (Ubuntu/Debian based).
 
 (This is what I used. The versions should not be a problem)
 
-#Building Rust(CLI)
+# Building Rust(CLI)
 To get the shared library, run this command inside rust/demo folder:
 
 ```
