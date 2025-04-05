@@ -9,7 +9,7 @@ IntelliJ Idea (Kotlin version 2.1.10) and
 
 Linux (Ubuntu/Debian based).
 
-### Building Rust(CLI)
+### Building the Shared library (from Rust)
 To get the shared library, run this command inside rust/demo folder:
 
 ```
@@ -22,7 +22,7 @@ target/release folder of the cargo project
 Move the library to /src/nativeInterop/cinterop/libs folder for proper functionality,
 or modify the gradle files.
 
-### Running the executable(CLI)
+### Running the executable
 To run the executable, run the following commands
 in the root folder of the project:
 
