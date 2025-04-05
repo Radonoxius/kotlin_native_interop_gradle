@@ -19,7 +19,7 @@ cargo b --release
 A file named libdemo.so should be generated in the
 target/release folder of the cargo project
 
-Move the library to /src/nativeDemo/cinterop/libs folder for proper functionality,
+Move the library to /src/nativeInterop/cinterop/libs folder for proper functionality,
 or modify the gradle files.
 
 ### Running the executable(CLI)
