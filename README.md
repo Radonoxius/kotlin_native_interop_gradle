@@ -7,7 +7,7 @@ MSRV is 1.85 (stable), Rust 2024 edition and Cargo,
  
 IntelliJ Idea (Kotlin version 2.1.10) and
 
-Linux (Ubuntu/Debian based).
+Linux for X64 (Ubuntu/Debian based is preferable).
 
 ### Building the Shared library (from Rust)
 To get the shared library, run this command inside rust/demo folder:
